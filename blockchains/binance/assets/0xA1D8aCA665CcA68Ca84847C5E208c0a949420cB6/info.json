@@ -1,0 +1,11 @@
+{
+    "name": "AfterBurner",
+    "website": "https://burnertoken.com",
+    "description": "AfterBurner is a decentralized and deflationary BEP-20 Token with a strong focus on contributing to charity programs.",
+    "explorer": "https://bscscan.com/token/0xa1d8aca665cca68ca84847c5e208c0a949420cb6",
+    "type": "BEP20",
+    "symbol": "BURNER",
+    "decimals": 9,
+    "status": "active",
+    "id": "0xA1D8aCA665CcA68Ca84847C5E208c0a949420cB6"
+}
